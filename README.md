@@ -1,5 +1,7 @@
 # Sample
 
+live link <a  href="https://angular-xjgmfs.stackblitz.io"> Employee Record </a>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
 ## Development server
